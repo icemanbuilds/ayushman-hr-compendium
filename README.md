@@ -6,6 +6,7 @@ Published chapters:
 
 - Chapter 1: Talent Acquisition, 14 sections.
 - Chapter 4: Learning and Development, 13 sections.
+- Chapter 7: Organisational Behaviour and Culture, 12 sections.
 
 Open index.html to browse both chapters. Each chapter is a self-contained HTML file and can also be opened on its own.
 
